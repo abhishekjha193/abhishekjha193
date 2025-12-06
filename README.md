@@ -6,7 +6,7 @@
 ✨ *Building, Learning & Growing Every Single Day* ✨  
 
 
-</div>
+</div >
 
 ## 🦸‍♂️ About Me
 
@@ -16,7 +16,6 @@
 - 🤝 Open to collaborate on **full-stack open-source projects**  
 - 🧠 Looking to connect with knowledgeable people in the tech field  
 - 🌱 Dedicated to continuous learning and improving my skillset  
-- 💬 Ask me anything — always happy to help  
 - ⚡ Fun fact: I love exploring new tech & creative ideas  
 
 ## 🌐 Connect With Me
@@ -79,7 +78,6 @@
 <div align="center">
 
 ### ⭐ *Thanks for visiting! Feel free to connect and collaborate.*  
-### 🚀 *Keep learning, keep building.*  
 
 </div>
 
