@@ -5,7 +5,6 @@
 
 ✨ *Building, Learning & Growing Every Single Day* ✨  
 
----
 
 </div>
 
@@ -20,8 +19,6 @@
 - 💬 Ask me anything — always happy to help  
 - ⚡ Fun fact: I love exploring new tech & creative ideas  
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -31,7 +28,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
@@ -78,7 +74,6 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
 
 <div align="center">
 
