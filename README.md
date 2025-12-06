@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 ABHISHEK B JHA  
+# 👨‍💻 ABHISHEK JHA  
 ### Full Stack Developer | MERN | GenAI Learner  
 
 ✨ *Building, Learning & Growing Every Single Day* ✨  
