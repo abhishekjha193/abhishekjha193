@@ -64,11 +64,6 @@ with modern frontend frameworks and robust backend systems.
 </div>
 
 ---
-###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhishekjha193 /abhishekjha193 /output/snake.svg" alt="Snake animation" />
-</div>
----
 
 ### 📌 Professional Note
 I’m actively improving my stack through **real-world projects** and  
