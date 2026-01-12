@@ -56,15 +56,6 @@ with modern frontend frameworks and robust backend systems.
 
 ---
 
-## 📊 GitHub Activity
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekjha193&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-
-</div>
-
----
-
 ## 🚀 Tools & Platforms
 <div align="left">
 
