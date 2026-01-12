@@ -64,8 +64,9 @@ with modern frontend frameworks and robust backend systems.
 </div>
 
 ---
+###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekjha193&locale=en&mode=daily&theme=dark&hide_border=true" height="220" />
+  <img src="https://raw.githubusercontent.com/abhishekjha193 /abhishekjha193 /output/snake.svg" alt="Snake animation" />
 </div>
 ---
 
