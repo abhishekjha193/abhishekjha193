@@ -61,8 +61,6 @@ with modern frontend frameworks and robust backend systems.
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekjha193&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=github_dark&hide_border=true" height="160"/>
-
 </div>
 
 ---
