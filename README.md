@@ -64,11 +64,9 @@ with modern frontend frameworks and robust backend systems.
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishekjha193&locale=en&mode=daily&theme=dark&hide_border=true" height="220" />
 </div>
-
 ---
 
 ### 📌 Professional Note
