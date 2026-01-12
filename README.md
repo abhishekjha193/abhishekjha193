@@ -65,6 +65,12 @@ with modern frontend frameworks and robust backend systems.
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+---
+
 ### 📌 Professional Note
 I’m actively improving my stack through **real-world projects** and  
 open to **internships / entry-level full-stack roles** where impact matters.
