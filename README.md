@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExajVkYnQ3dmFmZDduNzZ1emJjOHYzM3dyZjc0YndsemxmZGc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fel8Ju5TpscPXi97Ui/giphy.gif)" width="380"/>
 
 </div>
 
