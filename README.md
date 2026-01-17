@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=1200&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Abhishek+Jha;Abhishek+Jha" />
 
-<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
 
 <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExajVkYnQ3dmFmZDduNzZ1emJjOHYzM3dyZjc0YndsemxmZGc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fel8Ju5TpscPXi97Ui/giphy.gif)" width="380"/>
 
