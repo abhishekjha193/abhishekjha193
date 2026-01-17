@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=1200&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Abhishek+Jha;Abhishek+Jha" />
+<img src="https://readme-typing-svg.demolab.com?
+font=Orbitron
+&size=36
+&duration=1200
+&pause=600
+&color=00F7FF
+&center=true
+&vCenter=true
+&width=700
+&lines=Abhishek+Jha;Full+Stack+Web+Developer;Abhishek+Jha" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
