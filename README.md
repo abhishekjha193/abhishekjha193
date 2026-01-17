@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=1200&pause=600&color=00F7FF&center=true&vCenter=true&width=700&lines=Abhishek+Jha;Full+Stack+Web+Developer;Abhishek+Jha" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2400&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Abhishek+Jha;Full+Stack+Web+Developer;Abhishek+Jha" />
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRlNWtkdjN3aXVjbTljY3FyZXY4a29rbzBlZWQ2bjFjZGhwajg0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fel8Ju5TpscPXi97Ui/giphy.gif" width="420"/>
 
