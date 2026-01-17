@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Abhishek+Jha;Full+Stack+Developer+(MERN);GenAI+Learner;Building+Production-Ready+Web+Apps" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
