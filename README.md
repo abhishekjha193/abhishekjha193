@@ -8,7 +8,7 @@
 
 # 👨‍💻 About Me
 
-Full Stack Developer focused on building **scalable and production-ready web applications** using modern technologies.
+Full Stack Developer focused on building **scalable and production ready web applications** using modern technologies.
 
 * 🚀 MERN Stack Development
 * 🔐 Authentication & Secure Backend Systems
@@ -23,16 +23,6 @@ Full Stack Developer focused on building **scalable and production-ready web app
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github&theme=dark"/>
-
-</p>
-
----
-
-# 🚀 Tools & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,npm,figma,canva,vscode&theme=dark"/>
 
 </p>
 
