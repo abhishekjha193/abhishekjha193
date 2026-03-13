@@ -62,8 +62,7 @@ Full Stack Developer focused on building **scalable and production ready web app
 
 ---
 
-# 
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhishek-jha-594b31268">
