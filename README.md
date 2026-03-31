@@ -18,7 +18,7 @@ Full Stack Developer focused on building **scalable and production ready web app
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github&theme=dark"/>
@@ -26,16 +26,16 @@ Full Stack Developer focused on building **scalable and production ready web app
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko" height="170"/>
+  <img src="https://readme-stats-sigma-five.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko" height="170"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=merko" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
+  <img src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
 </p>
 
 ---
@@ -43,23 +43,23 @@ Full Stack Developer focused on building **scalable and production ready web app
 ## 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekjha193/abhishekjha193/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/ahnshy/ahnshy/master/profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 🐍 Contribution Snake
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=github-compact&hide_border=true)](https://github.com/abhishekjha193)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishekjha193/abhishekjha193/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 👀 Profile Views
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/abhishekjha193/abhishekjha193/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://komarev.com/ghpvc/?username=abhishekjha193&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -81,4 +81,3 @@ Full Stack Developer focused on building **scalable and production ready web app
 ⭐ **Building real projects that solve real problems**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
-
