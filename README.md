@@ -40,14 +40,6 @@ Full Stack Developer focused on building **scalable and production ready web app
 
 ---
 
-## 🌌 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekjha193/abhishekjha193/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
 # 📈 Contribution Activity
 
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=github-compact&hide_border=true)](https://github.com/abhishekjha193)
