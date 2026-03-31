@@ -1,75 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Abhishek%20Jha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=header&text=Abhishek%20Jha&fontSize=38&fontColor=ffffff&textAlign=50&textAlignY=50"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;MERN+Stack+Developer;Scalable+Web+Apps"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<table width="100%">
+<tr>
 
-Full Stack Developer focused on building **scalable and production ready web applications** using modern technologies.
+<td width="50%" valign="top">
 
-* 🚀 MERN Stack Development
-* 🔐 Authentication & Secure Backend Systems
-* ⚡ REST API Development
-* 🤖 Exploring **GenAI + Web Applications**
-* 📦 Building **real world projects**
-
+### 👨‍💻 About
 ---
+- 🚀 Full Stack (MERN)
+- 🔐 Secure Auth Systems
+- ⚡ REST APIs
+- 🤖 GenAI + Web
 
-# 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github&theme=dark"/>
+### 🧠 Tech Stack
+---
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git&theme=dark"/>
 </p>
 
+### 📈 Activity
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=github-compact&hide_border=true"/>
 
-# 📊 GitHub Stats
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=merko" height="170"/>
+<td width="50%" valign="top">
+
+### 📊 Stats
+---
+<p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=merko" height="140"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
+<p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="140"/>
 </p>
 
----
+</td>
 
-# 📈 Contribution Activity
+</tr>
+</table>
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=github-compact&hide_border=true)](https://github.com/abhishekjha193)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/abhishekjha193/abhishekjha193/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/abhishek-jha-594b31268">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/thecode_director/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
-
----
-
-⭐ **Building real projects that solve real problems**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=90&section=footer"/>
