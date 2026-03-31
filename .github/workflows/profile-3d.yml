@@ -1,0 +1,26 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: abhishekjha193
+
+      - name: Commit & push
+        run: |
+          git config --global user.name 'Abhishek'
+          git config --global user.email 'your-email@example.com'
+          git add .
+          git commit -m "generated"
+          git push
