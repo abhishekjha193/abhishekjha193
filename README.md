@@ -40,7 +40,7 @@ Full Stack Developer focused on building **scalable and production ready web app
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
 
 </p>
 
