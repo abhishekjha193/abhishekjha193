@@ -36,7 +36,11 @@ Full Stack Developer focused on building **scalable and production ready web app
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
-</p>>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/abhishekjha193/abhishekjha193/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 ---
 
