@@ -41,6 +41,5 @@
 <br/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="130"/>
 </p>
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=80&section=footer"/>
