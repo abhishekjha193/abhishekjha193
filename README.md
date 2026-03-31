@@ -21,9 +21,7 @@ Full Stack Developer focused on building **scalable and production ready web app
 # 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github&theme=dark"/>
 </p>
 
 ---
