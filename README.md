@@ -31,14 +31,14 @@ Full Stack Developer focused on building **scalable and production ready web app
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko" height="170"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=merko&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=merko" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko&cache_seconds=1800" height="170"/>
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="170"/>
+</p>>
 
 ---
 
