@@ -32,14 +32,5 @@
 <!-- RIGHT BLOCK -->
 <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; text-align: left; margin: 10px 0 10px 20px;">
 
-### 📊 Stats
----
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekjha193&show_icons=true&theme=merko" height="130"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha193&theme=merko" height="130"/>
-<br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekjha193&layout=compact&theme=merko" height="130"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=80&section=footer"/>
