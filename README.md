@@ -11,5 +11,3 @@
 <!-- RIGHT BLOCK -->
 <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; text-align: left; margin: 10px 0 10px 20px;">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer"/>
