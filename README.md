@@ -1,4 +1,4 @@
-<img width="1500" height="491" alt="my" src="https://github.com/user-attachments/assets/0f5c63a9-c476-45f9-9594-e9c900f9cdbd" />
+<img width="1100" height="250" alt="my" src="https://github.com/user-attachments/assets/0f5c63a9-c476-45f9-9594-e9c900f9cdbd" />
 
 ## ⚡ Tech
 
