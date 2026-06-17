@@ -1,9 +1,20 @@
-<img width="1100" height="270" alt="my" src="https://github.com/user-attachments/assets/0f5c63a9-c476-45f9-9594-e9c900f9cdbd" />
+<img width="1100" alt="banner" src="https://github.com/user-attachments/assets/0f5c63a9-c476-45f9-9594-e9c900f9cdbd" />
 
-## ⚡ Tech
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git&theme=dark" />
+---
 
-## 📊 Contributions
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode,firebase&theme=dark" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=github-compact&hide_border=true&height=160" />
+<br/>
+
+<img src="https://img.shields.io/badge/MERN-00C853?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Always_Learning-FF9800?style=for-the-badge" />
+
+</div>
+
+---
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=tokyo-night&hide_border=true&area=true" width="100%" />
