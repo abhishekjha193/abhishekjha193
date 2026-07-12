@@ -18,6 +18,3 @@
 </div>
 
 ---
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekjha193&theme=tokyo-night&hide_border=true&area=true" width="100%" />
